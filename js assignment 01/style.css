@@ -1,0 +1,31 @@
+
+.body{
+    background-color: aquamarine;
+}
+
+.intro{
+    display: flex;
+justify-content: center;
+background-color: black;
+color: white;
+   
+}
+.intro-js{
+    background-color:lightcyan;
+   border-radius: 10px;
+}
+
+.intro-js2{
+     background-color:lightgrey;
+   border-radius: 10px;
+}
+
+.intro-js3{
+      background-color:lightblue;
+   border-radius: 10px;
+}
+
+.intro-js4{
+         background-color:yellow;
+   border-radius: 10px;
+}
